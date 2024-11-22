@@ -1,0 +1,21 @@
+{
+    "name":"goods-srv",
+    "host":"10.101.3.214",
+    "tags":["imooc","goods","srv"],
+    "mysql":{
+        "host":"192.168.182.130",
+        "port":3306,
+        "user":"root",
+        "password":"513513",
+        "db":"mxshop_goods_srv"
+    },
+    "consul":{
+        "host":"192.168.182.130",
+        "port":8500
+    },
+    "es":{
+        "host":"192.168.182.130",
+        "port":9200
+    }
+    
+}

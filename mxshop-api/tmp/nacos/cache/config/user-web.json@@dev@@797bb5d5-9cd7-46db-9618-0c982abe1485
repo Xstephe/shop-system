@@ -1,0 +1,25 @@
+{
+  "name": "user-web",
+  "port": 8021,
+  "host": "10.101.17.134",
+  "tags":["imooc","user","web"],
+  "user_srv": {
+    "name": "user-srv"
+  },
+  "jwt": {
+    "key": "q5DaFqEwCRgUCesTbpHe042yp6m7pKsT"
+  },
+  "sms": {
+    "key": "LTAI5tHw4VuoDDufadhZ8SEf",
+    "secret": "gegskAGGAWU433PXcArDOO5LSdmoBD",
+    "expire": 300
+  },
+  "redis": {
+    "host": "192.168.182.130",
+    "port": 6379
+  },
+  "consul": {
+    "host": "192.168.182.130",
+    "port": 8500
+  }
+}

@@ -1,0 +1,5 @@
+host: '192.168.182.130'
+port: 8848
+namespace: '797bb5d5-9cd7-46db-9618-0c982abe1485'
+dataid: 'user-srv.json'
+group: 'pro'

@@ -1,0 +1,7 @@
+host: '192.168.182.130'
+port: 8848
+namespace: '85ce8838-1d01-453b-84c1-1dcc6f22ccbb'
+dataid: 'goods-srv.json'
+group: 'dev'
+
+

@@ -1,0 +1,5 @@
+host: '192.168.182.130'
+port: 8848
+namespace: '8707961b-cb1a-4c5c-af3a-167988800263'
+dataid: 'inventory-srv.json'
+group: 'dev'

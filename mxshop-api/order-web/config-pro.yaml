@@ -1,0 +1,5 @@
+host: '192.168.182.130'
+port: 8848
+namespace: 'e0b7bc61-9b68-401b-9bda-c64a0fb78442'
+dataid: 'order-web.json'
+group: 'pro'

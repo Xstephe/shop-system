@@ -1,0 +1,21 @@
+{
+  "name": "goods-web",
+  "host": "10.101.3.214",
+  "tags":["imooc","goods","web"],
+  "port": 8022,
+  "goods_srv": {
+    "name": "goods-srv"
+  },
+  "jwt": {
+    "key": "q5DaFqEwCRgUCesTbpHe042yp6m7pKsT"
+  },
+  "consul": {
+    "host": "192.168.182.130",
+    "port": 8500
+  },
+  "jaeger": {
+    "host": "192.168.182.130",
+    "port": 6831,
+    "name":"mxshop"
+  }
+}

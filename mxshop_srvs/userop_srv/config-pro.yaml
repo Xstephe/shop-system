@@ -1,0 +1,5 @@
+host: '192.168.182.130'
+port: 8848
+namespace: 'e7aba88e-0ad3-4f65-b7c3-465e90263984'
+dataid: 'userop-srv.json'
+group: 'pro'
