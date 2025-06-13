@@ -5,7 +5,8 @@
 
 - **访问鉴权**: 基于 JWT（JSON Web Token）
 - **路由框架**: Gin
-- **配置管理**: Viper
+- **配置管理**: Viper，Nacos
+- **服务注册与发现** Consul
 - **缓存服务**: Redis
 - **搜索引擎**: Elasticsearch
 - **消息队列**: RocketMQ
